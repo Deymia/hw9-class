@@ -24,4 +24,5 @@ public class Main {
         System.out.println("book.getPublicYear() = " + book.getPublicYear());
 
     }
+
 }
